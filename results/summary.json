@@ -1,0 +1,73 @@
+{
+  "successful_report_rows": 56,
+  "failed_repositories": 3,
+  "tool_use": {
+    "true": 19,
+    "false": 37
+  },
+  "commit_use": {
+    "true": 38,
+    "false": 18
+  },
+  "ignored_tools": {
+    "true": 15,
+    "false": 41
+  },
+  "signal_combinations": [
+    {
+      "signals": [
+        "false",
+        "false",
+        "false"
+      ],
+      "count": 16
+    },
+    {
+      "signals": [
+        "false",
+        "true",
+        "false"
+      ],
+      "count": 14
+    },
+    {
+      "signals": [
+        "true",
+        "true",
+        "false"
+      ],
+      "count": 9
+    },
+    {
+      "signals": [
+        "true",
+        "true",
+        "true"
+      ],
+      "count": 8
+    },
+    {
+      "signals": [
+        "false",
+        "true",
+        "true"
+      ],
+      "count": 7
+    },
+    {
+      "signals": [
+        "true",
+        "false",
+        "false"
+      ],
+      "count": 2
+    }
+  ],
+  "file_commit_signal_disagreements": 23,
+  "ratio": {
+    "count": 38,
+    "median": 11.818,
+    "minimum": 0.081,
+    "maximum": 100.0
+  }
+}

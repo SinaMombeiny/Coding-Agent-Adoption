@@ -1,0 +1,4 @@
+github_url,failure_category
+https://github.com/labri-progress/agent-impact,Other analysis error
+https://github.com/diegosouzapw/OmniRoute,GitHub API HTTP 502
+https://github.com/SinaMombeiny/sinamombeiny.github.io,Repository file-list retrieval failed
