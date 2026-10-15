@@ -108,7 +108,7 @@ This step processes existing CSV output; it does not rerun repository mining or 
 
 Robbes, R., Matricon, T., Degueule, T., Hora, A., & Zacchiroli, S. *Agentic Much? Adoption of Coding Agents on GitHub*.
 
-- Paper: https://arxiv.org/abs/2601.18341
+- Paper: [https://arxiv.org/abs/2601.18341](https://dl.acm.org/doi/10.1145/3822180)
 - Original implementation: https://github.com/labri-progress/agent-impact
 - Published dataset: https://zenodo.org/records/19256968
 - DOI: https://doi.org/10.1145/3822180
